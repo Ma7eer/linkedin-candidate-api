@@ -9,7 +9,7 @@ An RESTful API developed using Directus to store and enable access to linkedin c
 
 ## Tech used
 - Directus (This is what I am exploring)
-- MAMP (Set up a DB locally)
+- SQLite (Comes with Directus docker conveniently 😁)
 - Docker & Docker compose (Run Directus instance that is hosted locally)
 
 ## Project purpose
