@@ -1,0 +1,23 @@
+{
+  "name": "linkedin-candidate-api",
+  "version": "1.0.0",
+  "description": "An RESTful API developed using Directus to store and enable access to linkedin candidate data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ma7eer/linkedin-candidate-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ma7eer/linkedin-candidate-api/issues"
+  },
+  "homepage": "https://github.com/Ma7eer/linkedin-candidate-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
