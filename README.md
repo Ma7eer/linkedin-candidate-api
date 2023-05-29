@@ -7,6 +7,12 @@ An RESTful API developed using Directus to store and enable access to linkedin c
 - [x] Via an API call, list all candidate data (No pagination for now)
 - [ ] Via an API call, add 1 candidate
 
+#### TODO
+- [ ] Add endpoint to create a candidate
+- [ ] Store all key env variables in one place
+- [ ] Add docs on how to run the project
+- [ ] Figure out if directus supports migration and seeding
+
 ## Tech used
 - Directus (This is what I am exploring)
 - SQLite (Comes with Directus docker conveniently 😁)
