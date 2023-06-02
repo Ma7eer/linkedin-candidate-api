@@ -9,8 +9,7 @@ An RESTful API developed using Directus to store and enable access to linkedin c
 
 #### TODO
 - [ ] Store all key env variables in one place
-- [ ] Add docs on how to run the project
-- [ ] Figure out if directus supports migration and seeding
+- [ ] Figure out if Directus supports migration and seeding
 
 ## Tech used
 - Directus (This is what I am exploring)
