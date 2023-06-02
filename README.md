@@ -8,8 +8,9 @@ An RESTful API developed using Directus to store and enable access to linkedin c
 - [x] Via an API call, add 1 candidate
 
 #### TODO
-- [ ] Store all key env variables in one place
+- [ ] Set up API docs (Postman export file)
 - [ ] Figure out if Directus supports migration and seeding
+    - Resource: https://github.com/directus/directus/discussions/3891
 
 ## Tech used
 - Directus (This is what I am exploring)
