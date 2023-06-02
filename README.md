@@ -5,10 +5,9 @@ An RESTful API developed using Directus to store and enable access to linkedin c
 - [x] Connect to MySQL DB
 - [x] Store linkedin candidate data (Data that can be extracted from a linkedin profile)
 - [x] Via an API call, list all candidate data (No pagination for now)
-- [ ] Via an API call, add 1 candidate
+- [x] Via an API call, add 1 candidate
 
 #### TODO
-- [ ] Add endpoint to create a candidate
 - [ ] Store all key env variables in one place
 - [ ] Add docs on how to run the project
 - [ ] Figure out if directus supports migration and seeding

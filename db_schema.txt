@@ -1,8 +1,8 @@
 A file (may be temporary) that details teh DB schema
 
 Candidate schema:
-- ID: UUID
-- Name: string
-- Email: string
+- id: UUID
+- name: string
+- email: string
 - linkedin_url: string
-- Contact_info_url: string
+- contact_info_url: string
